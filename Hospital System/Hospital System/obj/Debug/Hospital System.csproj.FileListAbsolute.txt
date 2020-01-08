@@ -1,0 +1,10 @@
+C:\Users\Luyanda\source\repos\Hospital System\Hospital System\bin\Debug\Hospital System.exe.config
+C:\Users\Luyanda\source\repos\Hospital System\Hospital System\bin\Debug\Hospital System.exe
+C:\Users\Luyanda\source\repos\Hospital System\Hospital System\bin\Debug\Hospital System.pdb
+C:\Users\Luyanda\source\repos\Hospital System\Hospital System\obj\Debug\Hospital System.csprojResolveAssemblyReference.cache
+C:\Users\Luyanda\source\repos\Hospital System\Hospital System\obj\Debug\Hospital_System.Form1.resources
+C:\Users\Luyanda\source\repos\Hospital System\Hospital System\obj\Debug\Hospital_System.Properties.Resources.resources
+C:\Users\Luyanda\source\repos\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.GenerateResource.Cache
+C:\Users\Luyanda\source\repos\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.CoreCompileInputs.cache
+C:\Users\Luyanda\source\repos\Hospital System\Hospital System\obj\Debug\Hospital System.exe
+C:\Users\Luyanda\source\repos\Hospital System\Hospital System\obj\Debug\Hospital System.pdb
